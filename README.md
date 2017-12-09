@@ -67,6 +67,7 @@ $ git log
 
 ```bash
 $ git reset --hard 1cce3c1e6e20ffc86e5fb2b7d5
+$ git reset 清空缓存区中的所有文件
 ```
 
 ## 分支操作
